@@ -1,0 +1,7 @@
+D:\VisualStudio_Projects\CourseHackerU\PassOver1704_Q1\PassOver1704_Q1\bin\Debug\PassOver1704_Q1.exe.config
+D:\VisualStudio_Projects\CourseHackerU\PassOver1704_Q1\PassOver1704_Q1\bin\Debug\PassOver1704_Q1.exe
+D:\VisualStudio_Projects\CourseHackerU\PassOver1704_Q1\PassOver1704_Q1\bin\Debug\PassOver1704_Q1.pdb
+D:\VisualStudio_Projects\CourseHackerU\PassOver1704_Q1\PassOver1704_Q1\obj\Debug\PassOver1704_Q1.csprojAssemblyReference.cache
+D:\VisualStudio_Projects\CourseHackerU\PassOver1704_Q1\PassOver1704_Q1\obj\Debug\PassOver1704_Q1.csproj.CoreCompileInputs.cache
+D:\VisualStudio_Projects\CourseHackerU\PassOver1704_Q1\PassOver1704_Q1\obj\Debug\PassOver1704_Q1.exe
+D:\VisualStudio_Projects\CourseHackerU\PassOver1704_Q1\PassOver1704_Q1\obj\Debug\PassOver1704_Q1.pdb
